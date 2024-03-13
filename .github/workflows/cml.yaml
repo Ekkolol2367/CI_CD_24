@@ -1,4 +1,4 @@
-name: pranay maniar 24 cicd pipeline
+name: pranay_maniar_24_cicd_pipeline
 on: [push]
 jobs:
   run:
